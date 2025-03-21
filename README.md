@@ -1,4 +1,3 @@
-# Atividade prática da semana DevOps & Cloud
-
-
-Imagem: camila81/conversao-distancia
+## Atividade prática da semana DevOps & Cloud
+Data: 18/03/2025
+Desafio 1: Docker
